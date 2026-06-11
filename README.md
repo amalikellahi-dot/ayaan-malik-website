@@ -16,4 +16,4 @@ I’ll add the GitHub Pages link here once the website is published.
 
 ## How to View
 
-You can open the `index.html` file in a browser, or use the live website link once it’s ready.
+You can open the `index.html` file in a browser or use the live website link once it’s ready.
